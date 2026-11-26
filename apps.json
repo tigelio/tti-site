@@ -14,16 +14,16 @@
     "icon": "logo.jpg.png"
   },
 {
-  "nome": "Calculadora TTI",
-  "desc": "Calculadora rápida e simples para o dia a dia.",
-  "info": "V1.0 • 2 MB",
-  "apk": "calculadora.apk",
+  "nome": "Novo Aplicativo TTI",
+  "desc": "Aplicativo desenvolvido pela TTI.",
+  "info": "Novo • APK • 8 MB",
+  "apk": "NOME-EXATO-DO-ARQUIVO.apk",
   "icone": "logo.jpg.png"
 },
 {
-  "nome": "DutyWise",
-  "desc": "Primeira versão do DutyWise - Organiza tuas tarefas.",
-  "info": "V1.0 • 14 MB",
+  "nome": "DutyWise - Calculadora da Alfândega",
+  "desc": "Saiba quanto vai pagar na alfândega ANTES de encomendar! Sem surpresas, sem multas.",
+  "info": "Novo • APK • 14 MB",
   "apk": "dutywise.apk",
   "icone": "logo.jpg.png"
 }
